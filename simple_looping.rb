@@ -62,5 +62,13 @@ def for_iterator(number_of_times)
   
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
+	number_of_times = 1..7
+	for item in number_of_times
+	puts "Wingardium Leviosa"
+ end
+end
+  
+  
+  
 end
 
