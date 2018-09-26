@@ -13,7 +13,7 @@ def loop_iterator(number_of_times)
     puts "Welcome to Flatiron School's Web Development Course!"
     number_of_times >= 7
       break 
-  #phrase = "Welcome to Flatiron School's Web Development Course!"
+  phrase = "Welcome to Flatiron School's Web Development Course!"
  end
 end
 
